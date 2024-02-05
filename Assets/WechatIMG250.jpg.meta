@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 393e755956edb45048fcf552107bdf03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WechatIMG250_0
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 652
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62a1e1c494d4e2caadc587e58b9e58
+      internalID: 233773234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 662
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c343cff8044a0d886e01ed6763a11
+      internalID: 377901051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 662
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a491a8e4a8d44a693209fc6b70c9b5
+      internalID: -650278222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 662
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e797e1a95b43588f5cd9a7c81d87f
+      internalID: 2104001961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 662
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f9adfd0bb840f6a85e2193d55cf2d
+      internalID: -722630291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_5
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 656
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674947360ec64618a9d0d34bf3a66c0
+      internalID: -442364012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 668
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8222588f394cf281d9460f01ad963
+      internalID: 2028249782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_7
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 661
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3803b7a45d002452593cfada1bb1290d
+      internalID: 235966818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 613
+        width: 206
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d14a0f380a444b9806176adddf29f
+      internalID: 1778238781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_9
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 668
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba951aeea28034d38a5960fa1679648c
+      internalID: -2132347468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_10
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 663
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820a467f57b64e78b42e2485b69861e
+      internalID: 1251844116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_11
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 667
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48450cb17f0fc49c6a0aec29b6614f1c
+      internalID: -12318298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_12
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 666
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac75debf5c24047bb528f4c994726e
+      internalID: -2137721709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_13
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 662
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c72c76a9aa74faba93a003f1c4cbb0
+      internalID: 829430879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_14
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 660
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a00ffff0fc46c085f6b51c98d0ffb
+      internalID: -1585317554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 612
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d0df9d0825483eaf8c43f15e60fd9
+      internalID: -1502763703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 618
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db762fe5c277144c790b806dd185cb48
+      internalID: -1004031373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 618
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d05b4a34dd4ca08159c6cf6f91ecb
+      internalID: 1579785866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 618
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f7089f7b1964009b6e92025d5858d0
+      internalID: -2058668805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 611
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de8b2d1f6a84f0d9c4ba85aecdd865
+      internalID: 1785728090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_20
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 618
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95bbd3818f5347d5841c778d4a5a17d
+      internalID: 2012479924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_21
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 618
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01742afd23e4d4d2296278050fbf816c
+      internalID: 1304051512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 618
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac781ac9da8c463aa53349d0dee701e
+      internalID: 444854337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_23
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 629
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26bcf3eddaa49eb866e6ca5db88c3f
+      internalID: -161554186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 630
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7548e27224463e90f19f975721a87
+      internalID: -790219297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_25
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 631
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faee0a9d4d418440881b77e302e3f581
+      internalID: -1454292281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_26
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 620
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2141dbb07bbf4481f9d09f211dc7d43e
+      internalID: -916002113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_27
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 625
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962aaadf823424562a3dff00bbaec492
+      internalID: -1365817468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_28
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 618
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a976e4baf5241928c12912c47be72d
+      internalID: 146850502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 574
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf3049cf9434530ba22fffa7c145b1
+      internalID: 1690213930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_30
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 575
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b14908038134473bcb74ef2a203ac0
+      internalID: 1267952092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_31
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 575
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b39131187a4dff82563b36e3cc774
+      internalID: -769448658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_32
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 575
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67b62021bcf47d38ae4f78b20bd9df
+      internalID: -447082210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_33
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 575
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c433dcc7b2c9c4bd1948b3f3927f4ac1
+      internalID: 1226328827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 575
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39f63e997334ce7a1b40a2d8e5e962
+      internalID: -1720314158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_35
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 575
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841fa26ac2a1e47ed9b06242de35fd99
+      internalID: 252911480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_36
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 575
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822e8bfa3c7b1420d94dd778a0c67e79
+      internalID: 673970208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 575
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e358fc51264d44139ad672b0f7a71956
+      internalID: 446389190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_38
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 543
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c518f9a19348079e986a785ceb927
+      internalID: 1332635956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_39
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 553
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe5a3353e974d40a448c54aee36c3e
+      internalID: 1061906339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_40
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 542
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da287383600704779a9d4319c2feb88c
+      internalID: -673799922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_41
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 457
+        width: 201
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ddf11ee3e34f93a1ed8a357809506
+      internalID: -2144044215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_42
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 549
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67749468eb1a9435989c84a99b1f65b5
+      internalID: 1914550284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_43
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 552
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbeda1aca94470b99717e5a4175b8f
+      internalID: 189954436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_44
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 480
+        width: 176
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c85dff99d4446b8ede06c47f27654
+      internalID: -536901418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 544
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b4ff1f8b454919957dd0bff461d92
+      internalID: 1449091019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_46
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 537
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce81f1f73daa4c8984f187a450ec12f
+      internalID: -1956899293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_47
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 485
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572a1eb9bf2e476ea1927cda8beec75
+      internalID: 1020444124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_48
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 507
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52749ddbc2704bde817bf16eee8c18f
+      internalID: -728156831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_49
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 502
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91824735e05b84275bff5bd976158478
+      internalID: -150685099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_50
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 499
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781806df282574867a7304ba28e00ee9
+      internalID: -540648136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_51
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 500
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7aa4c45c92b434ab54e97bade9b26a
+      internalID: 1542491735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_52
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 513
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6593380055974e43ad6e055a71a6535
+      internalID: -939589325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_53
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 511
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc016b27c4a4cedbb872f06aa362d8
+      internalID: -1543996427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_54
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 504
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc186de9b034debbca6e9d419344ff
+      internalID: -624168859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_55
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 503
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc5eb2639254253a8523ebbebfea56
+      internalID: -752363726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_56
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 503
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a9a4c2ce34455c8181e9d5a6c8281
+      internalID: 1047641799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_57
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 505
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c164b595ac347ebaa816af6ac2bd55
+      internalID: -1869699428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_58
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 465
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515454f64ba344d76a0e7d3dfb653b59
+      internalID: -418276828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_59
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 475
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82cf7ebb06a4b6fbc433a8017b061a
+      internalID: 1622503641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_60
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 478
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8fcd55a0c044f8a382eb495d98e99
+      internalID: -257367783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_61
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 462
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa261bbe5774984a8f5d4e31e33a33
+      internalID: 1132295488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_62
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 474
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b2466026b345e8a68a255a17de2ab
+      internalID: -1966780697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_63
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 467
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51c84da3a3b4007973972528485699
+      internalID: 1541692807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63852490089164d718ad4cbb0211a5dd
+      internalID: 743670747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WechatIMG250_65
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 479
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8a1d6c2a484e4d8955480550f8120
+      internalID: 490154425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WechatIMG250_0: 233773234
+      WechatIMG250_1: 377901051
+      WechatIMG250_10: 1251844116
+      WechatIMG250_11: -12318298
+      WechatIMG250_12: -2137721709
+      WechatIMG250_13: 829430879
+      WechatIMG250_14: -1585317554
+      WechatIMG250_15: -1502763703
+      WechatIMG250_16: -1004031373
+      WechatIMG250_17: 1579785866
+      WechatIMG250_18: -2058668805
+      WechatIMG250_19: 1785728090
+      WechatIMG250_2: -650278222
+      WechatIMG250_20: 2012479924
+      WechatIMG250_21: 1304051512
+      WechatIMG250_22: 444854337
+      WechatIMG250_23: -161554186
+      WechatIMG250_24: -790219297
+      WechatIMG250_25: -1454292281
+      WechatIMG250_26: -916002113
+      WechatIMG250_27: -1365817468
+      WechatIMG250_28: 146850502
+      WechatIMG250_29: 1690213930
+      WechatIMG250_3: 2104001961
+      WechatIMG250_30: 1267952092
+      WechatIMG250_31: -769448658
+      WechatIMG250_32: -447082210
+      WechatIMG250_33: 1226328827
+      WechatIMG250_34: -1720314158
+      WechatIMG250_35: 252911480
+      WechatIMG250_36: 673970208
+      WechatIMG250_37: 446389190
+      WechatIMG250_38: 1332635956
+      WechatIMG250_39: 1061906339
+      WechatIMG250_4: -722630291
+      WechatIMG250_40: -673799922
+      WechatIMG250_41: -2144044215
+      WechatIMG250_42: 1914550284
+      WechatIMG250_43: 189954436
+      WechatIMG250_44: -536901418
+      WechatIMG250_45: 1449091019
+      WechatIMG250_46: -1956899293
+      WechatIMG250_47: 1020444124
+      WechatIMG250_48: -728156831
+      WechatIMG250_49: -150685099
+      WechatIMG250_5: -442364012
+      WechatIMG250_50: -540648136
+      WechatIMG250_51: 1542491735
+      WechatIMG250_52: -939589325
+      WechatIMG250_53: -1543996427
+      WechatIMG250_54: -624168859
+      WechatIMG250_55: -752363726
+      WechatIMG250_56: 1047641799
+      WechatIMG250_57: -1869699428
+      WechatIMG250_58: -418276828
+      WechatIMG250_59: 1622503641
+      WechatIMG250_6: 2028249782
+      WechatIMG250_60: -257367783
+      WechatIMG250_61: 1132295488
+      WechatIMG250_62: -1966780697
+      WechatIMG250_63: 1541692807
+      WechatIMG250_64: 743670747
+      WechatIMG250_65: 490154425
+      WechatIMG250_7: 235966818
+      WechatIMG250_8: 1778238781
+      WechatIMG250_9: -2132347468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
